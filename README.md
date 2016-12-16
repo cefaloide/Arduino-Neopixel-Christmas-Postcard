@@ -1,4 +1,4 @@
-# Arduino-Christmas-Tree-Lights
+# Arduino Neopixel Christmas Postcard
 Code to control Neopixel Lights by Arduino
 
 Example video:
